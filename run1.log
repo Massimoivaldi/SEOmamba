@@ -1,0 +1,41 @@
+2016-05-12 01:14:46 URL:http://www.agenziamobilita.roma.it/it.html [58665] -> "index.html" [1]
+2016-05-12 01:14:48 URL:http://www.agenziamobilita.roma.it/robots.txt [908/908] -> "robots.txt" [1]
+2016-05-12 01:14:50 URL:http://www.carsharing.roma.it/robots.txt [908/908] -> "robots.txt" [1]
+2016-05-12 01:14:52 URL:http://www.muoversiaroma.it/robots.txt [838/838] -> "robots.txt" [1]
+2016-05-12 01:14:54 URL:http://www.sicurezzastradale.roma.it/robots.txt [908/908] -> "robots.txt" [1]
+https://login.muoversiaroma.it/robots.txt:
+2016-05-12 01:14:57 ERROR 404: Not Found.
+http://login.muoversiaroma.it/robots.txt:
+2016-05-12 01:14:59 ERROR 404: Not Found.
+2016-05-12 01:15:01 URL:https://www.agenziamobilita.roma.it/robots.txt [908/908] -> "robots.txt" [1]
+2016-05-12 01:15:03 URL:https://twitter.com/robots.txt [1885/1885] -> "robots.txt" [1]
+2016-05-12 01:15:09 URL:https://www.linkedin.com/robots.txt [26971/26971] -> "robots.txt" [1]
+2016-05-12 01:15:13 URL:https://www.pinterest.com/robots.txt [1850/1850] -> "robots.txt" [1]
+2016-05-12 01:15:16 URL:https://it.foursquare.com/robots.txt [696/696] -> "robots.txt" [1]
+2016-05-12 01:15:18 URL: http://www.agenziamobilita.roma.it/it/rss.html 200 OK
+unlink: No such file or directory
+2016-05-12 01:15:20 URL: http://www.agenziamobilita.roma.it/it/atom.html 200 OK
+unlink: No such file or directory
+http://www.agenziamobilita.roma.it/index.php?option=com_search&lang=it&view=featured&Itemid=101&format=opensearch:
+2016-05-12 01:15:24 URL:http://www.agenziamobilita.roma.it/index.php?option=com_search&lang=it&view=featured&Itemid=101&format=opensearch [737/737] -> "index.php?option=com_search&lang=it&view=featured&Itemid=101&format=opensearch" [2]
+2016-05-12 01:15:31 URL:http://www.agenziamobilita.roma.it/it.html [58665] -> "it.html" [1]
+2016-05-12 01:15:40 URL:http://www.carsharing.roma.it/it.html [19126] -> "index.html" [1]
+2016-05-12 01:15:44 URL:http://www.muoversiaroma.it/ [391/391] -> "index.html" [1]
+2016-05-12 01:15:53 URL:http://www.sicurezzastradale.roma.it/it.html [48745] -> "index.html" [1]
+2016-05-12 01:16:00 URL:http://www.agenziamobilita.roma.it/it/normale.html [58440] -> "normale.html" [1]
+2016-05-12 01:16:07 URL:http://www.agenziamobilita.roma.it/it/alto-contrasto.html [58254] -> "alto-contrasto.html" [1]
+2016-05-12 01:16:14 URL:http://www.agenziamobilita.roma.it/it/solo-testo.html [58226] -> "solo-testo.html" [1]
+2016-05-12 01:16:21 URL:http://www.agenziamobilita.roma.it/en.html [54990] -> "en.html" [1]
+2016-05-12 01:16:27 URL:http://www.agenziamobilita.roma.it/it/amministrazione-trasparente/ [63408] -> "index.html" [1]
+2016-05-12 01:16:32 URL:https://login.muoversiaroma.it/Login.aspx?IdSito=10 [13459/13459] -> "Login.aspx?IdSito=10" [1]
+2016-05-12 01:16:36 URL:http://login.muoversiaroma.it/registrazione.aspx?IdSito=10 [15484/15484] -> "registrazione.aspx?IdSito=10" [1]
+2016-05-12 01:16:43 URL:http://www.agenziamobilita.roma.it/it/governance.html [57111] -> "governance.html" [1]
+2016-05-12 01:16:49 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/ [54047] -> "index.html" [1]
+2016-05-12 01:16:56 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/attivi.html [53348] -> "attivi.html" [1]
+2016-05-12 01:17:02 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/scaduti.html [61147] -> "scaduti.html" [1]
+2016-05-12 01:17:08 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/avvocati-esterni.html [54946] -> "avvocati-esterni.html" [1]
+2016-05-12 01:17:16 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/esiti.html [59534] -> "esiti.html" [1]
+2016-05-12 01:17:22 URL:http://www.agenziamobilita.roma.it/it/azienda/bandi-gara-contratti/albo-fornitori.html [56517] -> "albo-fornitori.html" [1]
+2016-05-12 01:17:29 URL:http://www.agenziamobilita.roma.it/it/azienda/piattaforma-editoriale/ [55927] -> "index.html" [1]
+2016-05-12 01:17:35 URL:http://www.agenziamobilita.roma.it/it/azienda/piattaforma-editoriale/pannelli-stradali.html [54386] -> "pannelli-stradali.html" [1]
+2016-05-12 01:17:42 URL:http://www.agenziamobilita.roma.it/it/azienda/piattaforma-editoriale/trasporti-e-mobilita.html [54353] -> "trasporti-e-mobilita.html" [1]
